@@ -18,10 +18,10 @@ Busco conectar lógica de programação, engenharia de dados e interfaces modern
 ### 🗄️ [bd_spt_msc](https://github.com/Ygor0101/Projetos-SQL) - Sistema de Banco de Dados Relacional
 Desenvolvimento de uma infraestrutura robusta de banco de dados em MySQL. Implementação de 30 queries analíticas complexas, automação de rotinas via *Stored Procedures*, integridade em cascata e um sistema de auditoria silenciosa através de *Triggers* para gravação automática de logs de segurança.
 
-### 🐍 [Sistema de Inventário e Catálogo](https://github.com/Ygor0101) *(Seu repositório de Python)*
+### 🐍 [Sistema de Inventário e Catálogo](https://github.com/Ygor0101)
 Aplicação interativa desenvolvida em Python via linha de comando (CLI) focada nas operações de CRUD de produtos. Arquitetura com persistência otimizada na memória RAM (listas e dicionários), contendo validações de regras de negócio e tratamento de exceções.
 
-### ⏱️ [Relógio Digital Dinâmico](https://github.com/Ygor0101) *(Seu repositório do Relógio)*
+### ⏱️ [Relógio Digital Dinâmico](https://github.com/Ygor0101) 
 Aplicação web responsiva desenvolvida com JavaScript Vanilla, HTML5 e CSS3. O sistema gerencia funções assíncronas e manipulação dinâmica do DOM em tempo real para sincronizar e formatar os dados cronológicos do dispositivo do usuário.
 
 ---
