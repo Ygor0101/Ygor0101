@@ -1,4 +1,4 @@
-# Olá, eu sou o Ygor Davi! 👋
+# Olá, eu sou o Ygor! 👋
 
 Busco conectar lógica de programação, engenharia de dados e interfaces modernas para criar soluções tecnológicas eficientes e robustas. Atualmente, possuo formação como **Administrador de Banco de Dados** pelo SENAI e estou finalizando minha especialização em **Desenvolvimento Python (200h)**.
 
