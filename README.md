@@ -1,6 +1,6 @@
 # Olá, eu sou o Ygor! 👋
 
-Busco conectar lógica de programação, engenharia de dados e interfaces modernas para criar soluções tecnológicas eficientes e robustas. Atualmente, foco meus estudos ems Python (na qual estou me aprofundando no momento com os frameworks Django e Django Rest Framework). Além disso, tenho conhecimento sólido em bancos de dados relacionais: MySQL, SQL Server e PostgreSQL.
+Estou na busca de conectar lógica de programação, engenharia de dados e interfaces modernas para criar soluções tecnológicas eficientes e robustas. Atualmente, foco meus estudos em Python (no qual estou me aprofundando no momento nos frameworks Django e Django Rest Framework). Além disso, tenho conhecimento sólido em bancos de dados relacionais: MySQL, SQL Server e PostgreSQL.
 
 ---
 
