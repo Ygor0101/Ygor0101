@@ -1,6 +1,6 @@
 # Olá, eu sou o Ygor! 👋
 
-Busco conectar lógica de programação, engenharia de dados e interfaces modernas para criar soluções tecnológicas eficientes e robustas. Atualmente, possuo formação como **Administrador de Banco de Dados** pelo SENAI e estou finalizando minha especialização em **Desenvolvimento Python (200h)**.
+Busco conectar lógica de programação, engenharia de dados e interfaces modernas para criar soluções tecnológicas eficientes e robustas. Atualmente, foco meus estudos ems Python (na qual estou me aprofundando no momento com os frameworks Django e Django Rest Framework). Além disso, tenho conhecimento sólido em bancos de dados relacionais: MySQL, SQL Server e PostgreSQL.
 
 ---
 
@@ -40,3 +40,4 @@ Aplicação web responsiva desenvolvida com JavaScript Vanilla, HTML5 e CSS3. O 
 
 - 📧 **E-mail:** ygor.etb@gmail.com
 - 📞 **Telefone:** (61) 99437-1719
+- 🌐  www.linkedin.com/in/ygor-davi-portela-oliveira-oliveira-4a1653419
