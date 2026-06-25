@@ -19,14 +19,7 @@ Busco conectar lógica de programação, engenharia de dados e interfaces modern
 * **Back-End & Automação:** Python (Lógica estruturada, manipulação de coleções, arquitetura CRUD)
 * **Banco de Dados & Infra:** MySQL, SQL ANSI, Stored Procedures, Triggers de auditoria, Modelagem de dados $N:M$
 * **Front-End & Web:** JavaScript (ES6+), HTML5, CSS3 (Manipulação de DOM, animações e responsividade)
-* **Ferramentas:** MySQL Workbench, Git, GitHub, VS Code, Ambiente Windows
----
-
-### 🧠 Detalhes Técnicos & Habilidades
-
-* **Back-End & Automação:** Lógica estruturada, manipulação de coleções e arquitetura CRUD.
-* **Banco de Dados & Infra:** SQL ANSI, Stored Procedures, Triggers de auditoria e Modelagem de dados $N:M$.
-* **Front-End & Web:** Manipulação de DOM, animações e responsividade.
+* **Ferramentas:** MySQL, Git, GitHub, VS Code, Ambiente Windows
 
 ---
 
